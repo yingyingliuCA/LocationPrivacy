@@ -9,6 +9,7 @@ https://snap.stanford.edu/data/loc-gowalla.html
 >python kdTree_DP_WithTime.py
 
 References: 
+
 [1] The code for kdTree is taken from: 
 https://www.astroml.org/book_figures/chapter2/fig_kdtree_example.html
 
