@@ -1,5 +1,5 @@
 # COMP7860
-Course project
+Location Privacy Preservation of Vehicle Data in IoV
 
 Steps: 
 1. Download loc-gowalla_totalCheckins.txt.gz from 
