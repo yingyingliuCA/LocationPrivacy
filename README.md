@@ -1,4 +1,4 @@
-# COMP7860
+# LocationPrivacy
 Location Privacy Preservation of Vehicle Data in IoV
 
 Steps: 
